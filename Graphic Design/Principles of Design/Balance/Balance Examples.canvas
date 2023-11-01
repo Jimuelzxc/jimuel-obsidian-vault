@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"e81c72615fc9f2dc","type":"file","file":"Graphic Design/principles of design/Balance/assets/f030471d7fad91bab618d19cac0f7c46.jpg","x":-700,"y":-320,"width":257,"height":400},
+		{"id":"24658eba51bec75f","type":"file","file":"Graphic Design/principles of design/Balance/assets/38406c32da4d27da9c126b59563a1380.jpg","x":-420,"y":-320,"width":225,"height":400},
+		{"id":"45880dbebdfa0bab","type":"file","file":"Graphic Design/principles of design/Balance/assets/a0d18b09caf66220101f7073bb06d562.jpg","x":-160,"y":-320,"width":280,"height":400}
+	],
+	"edges":[]
+}

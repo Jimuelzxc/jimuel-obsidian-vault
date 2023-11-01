@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "38cd90d0ea42e2ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "23732b57556b9524",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99d6e6c1063d3e3b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb7771a023154042",
+    "type": "split",
+    "children": [
+      {
+        "id": "18c7407be653e8c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c8d8db653139e27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "c8bd889085c18fe5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "870228feedd9a0f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "77fd6e4a3d6fdb6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9435f385875f7fac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f560644dabfd0686",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8b76618923ec3967",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "161c66fc4f8992bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7a3a66e47f1f7307",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "99d6e6c1063d3e3b",
+  "lastOpenFiles": [
+    "README.md",
+    "Graphic Design/Principles of Design/Visual Hierarchy/Visual Hierarchy.md",
+    "Graphic Design/Principles of Design/Variety/Variety.md",
+    "Graphic Design/Principles of Design/Unity/Unity.md",
+    "Graphic Design/Principles of Design/Repetition/Repetition.md",
+    "Graphic Design/Principles of Design/Movement/Movement.md",
+    "Graphic Design/Principles of Design/Contrast/Contrast.md",
+    "Graphic Design/Principles of Design/Balance/Balance.md",
+    "Graphic Design/Principles of Design/Movement/Movement Examples.canvas",
+    "Graphic Design/Principles of Design/Rhythm/Rhythm.md",
+    "Graphic Design/Principles of Design/Proportion/Proportion.md",
+    "Graphic Design/Principles of Design/Proportion/Proportion Examples.canvas",
+    "Graphic Design/Principles of Design/Movement",
+    "Pasted image 20231101222817.jpg",
+    "Graphic Design/Principles of Design/Proportion",
+    "Graphic Design/Principles of Design/Visual Hierarchy/Visual Hierarchy Examples.canvas",
+    "Graphic Design/Principles of Design/Variety/Variety Examples.canvas",
+    "590b6c79ad985e74f0891cfd6944cd99.jpg",
+    "Graphic Design/Principles of Design/Visual Hierarchy",
+    "Graphic Design/Principles of Design/Rhythm/Rhythm Examples.canvas",
+    "a11xxaj0.bmp",
+    "Graphic Design/Principles of Design/Repetition/Repetition Examples.canvas",
+    "Graphic Design/Principles of Design/Rhythm",
+    "Graphic Design/Principles of Design/Contrast/Contrast Examples.canvas",
+    "Graphic Design/Principles of Design/Contrast/assets/19df5a16708ce558f463b6144c5cee396ff6ec9f-2881x2161.jpg",
+    "Graphic Design/Principles of Design/Contrast/assets/fcae43db7b1f256e1fd29defeacac2b5.jpg",
+    "Graphic Design/Principles of Design/Contrast/assets/gdssketq.bmp",
+    "Graphic Design/Principles of Design/Contrast/assets/e4s2kj78.bmp",
+    "Graphic Design/Principles of Design/Repetition/assets/7609ce226024cff7091b274721943332.jpg",
+    "Graphic Design/Principles of Design/Repetition/assets",
+    "Graphic Design/Principles of Design/Repetition/assets/17795e36a4ddce9801cfe676840ce2fd.jpg",
+    "Graphic Design/Principles of Design/Repetition/assets/625dc2378f76cb6e73a91b04a4089a61.jpg",
+    "Graphic Design/Principles of Design/Repetition",
+    "Visual Interest.md",
+    "Graphic Design/Principles of Design/Balance/Balance Examples.canvas",
+    "Graphic Design/Principles of Design/Variety/assets",
+    "Graphic Design/Principles of Design/Unity/Unity Examples.canvas",
+    "Graphic Design/Principles of Design/Variety",
+    "Graphic Design/Principles of Design/Unity/assets",
+    "path/to/your/image.jpg.md",
+    "path/to/your",
+    "Graphic Design/principles of design/Balance/Balance.md",
+    "Graphic Design/principles of design/Contrast/Contrast.md",
+    "Graphic Design/principles of design/Contrast/Contrast Example.canvas",
+    "Graphic Design/principles of design/Balance/A.md",
+    "Graphic Design/principles of design/visual hierarchy.md",
+    "2023-11-01.md",
+    "Untitled.md",
+    "Graphic Design/Balance ⚖️.md",
+    "Graphic Design/principles of design/12 Principles of design.md"
+  ]
+}

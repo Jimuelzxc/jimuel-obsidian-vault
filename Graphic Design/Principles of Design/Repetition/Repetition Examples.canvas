@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"11c56d460afed11e","type":"file","file":"Graphic Design/Principles of Design/Repetition/assets/17795e36a4ddce9801cfe676840ce2fd.jpg","x":-540,"y":120,"width":460,"height":902},
+		{"id":"461987ce7a560f17","type":"file","file":"Graphic Design/Principles of Design/Repetition/assets/7609ce226024cff7091b274721943332.jpg","x":-60,"y":140,"width":400,"height":300},
+		{"id":"eb09f18fe4eec296","type":"file","file":"Graphic Design/Principles of Design/Repetition/assets/phpsdd4o.bmp","x":-60,"y":480,"width":300,"height":400},
+		{"id":"45838d27f987984b","type":"file","file":"Graphic Design/Principles of Design/Repetition/assets/625dc2378f76cb6e73a91b04a4089a61.jpg","x":280,"y":480,"width":283,"height":399}
+	],
+	"edges":[]
+}

@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"094f78d686a9566e","type":"file","file":"Graphic Design/Principles of Design/Variety/assets/c7398b52aabf052bddcdbdd9022e2d9a.jpg","x":-400,"y":-160,"width":400,"height":225},
+		{"id":"c913d6662b1cba1b","type":"file","file":"Graphic Design/Principles of Design/Variety/assets/ce4fcf1d978af5cc2cf8bd639b1393db.jpg","x":20,"y":-160,"width":400,"height":300},
+		{"id":"194029789d080bb3","type":"file","file":"Graphic Design/Principles of Design/Variety/assets/ab69affae4422541e485c62cc2a2059f.jpg","x":-400,"y":100,"width":400,"height":394},
+		{"id":"a1fab01cd6ed5b6d","type":"file","file":"Graphic Design/Principles of Design/Variety/assets/b6aeecaca9611208ce07d1c2dfda4ca7.jpg","x":20,"y":200,"width":262,"height":400},
+		{"id":"93c61932ec62da2a","x":320,"y":200,"width":305,"height":460,"type":"link","url":"https://i.pinimg.com/564x/6d/8d/74/6d8d74a93c38c8818cfffceef05260fd.jpg"}
+	],
+	"edges":[]
+}
